@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your colors here -->
+    <color name="your_background_color">#FFFFFF</color> <!-- Example: Red color -->
+    <!-- Add more colors as needed -->
+</resources>
